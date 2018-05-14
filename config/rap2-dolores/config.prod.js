@@ -1,5 +1,5 @@
 module.exports = {
-  serve: '/rap2-api',
+  serve: '/delos',
   keys: [
     'gf',
     'code.sayhub.cn',

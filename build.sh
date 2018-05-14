@@ -16,5 +16,5 @@ fi
 
 docker build \
 -t \
-sayhub/rap2-easy-end:20180513 \
+sayhub/rap2-easy-end:20180520 \
 .
